@@ -1,0 +1,14 @@
+2020-12-26 12:54:37.796 [main] ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 2000 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 2000 or configure this application to listen on another port.
+
